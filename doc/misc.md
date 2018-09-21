@@ -42,21 +42,21 @@ your team define and maintain consistent coding styles between different
 editors and IDEs.
 
 By default, `.editorconfig` includes some basic
-[properties](https://editorconfig.org/#supported-properties) that reflect the
+[properties](http://editorconfig.org/#supported-properties) that reflect the
 coding styles from the files provided by default, but you can easily change
 them to better suit your needs.
 
 In order for your editor/IDE to apply the
-[properties](https://editorconfig.org/#supported-properties) from the
+[properties](http://editorconfig.org/#supported-properties) from the
 `.editorconfig` file, you may need to [install a
-plugin]( https://editorconfig.org/#download).
+plugin]( http://editorconfig.org/#download).
 
 __N.B.__ If you aren't using the server configurations provided by HTML5
 Boilerplate, we highly encourage you to configure your server to block
 access to `.editorconfig` files, as they can disclose sensitive information!
 
 For more details, please refer to the [EditorConfig
-project](https://editorconfig.org/).
+project](http://editorconfig.org/).
 
 
 ## Server Configuration
